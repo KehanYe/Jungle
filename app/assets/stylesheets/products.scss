@@ -68,13 +68,12 @@ main section.categories-show {
           color: rgba(0, 130, 29, 0.7);
         }
 
-        button[type='button'] {
+        button[type="sold"] {
           background: rgba(192, 224, 199, 1);
           color: rgba(218, 52, 68, 0.7);
           border: 0px;
-          cursor: default;
         }
-        
+
       img {
         width: 100%;
         height: auto;
