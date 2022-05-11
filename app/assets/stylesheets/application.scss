@@ -29,6 +29,18 @@ form.button_to {
   display: inline;
 }
 
+.btn-primary {
+    color: #fff;
+    background-color: green;
+    border-color: green;
+}
+
+.btn-primary:hover {
+  color: green;
+  background-color: white;
+  border-color: green;
+}
+
 .hero {
   height: 75vh;
   background-image: url("/images/hero_header.jpg");
